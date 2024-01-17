@@ -1,0 +1,12 @@
+functionality\LoginFunctionality.class
+functionality\Wallet.class
+integration\MyProfileLink.class
+integration\ProvidersRedirecting.class
+integration\Sample.class
+integration\InfoTest.class
+integration\SecurityCenter.class
+functionality\BetHistory.class
+functionality\SignUppModule.class
+integration\HomePageTest.class
+functionality\BankDetails.class
+integration\TitleTest.class
